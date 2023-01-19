@@ -1,0 +1,1 @@
+This code is simply calculator in bash with func +,-,*,/
